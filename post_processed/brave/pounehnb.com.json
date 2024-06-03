@@ -1,0 +1,36 @@
+{
+    "pounehnb.com": {
+        "freq": 1,
+        "queries": [],
+        "cookies": []
+    },
+    "googletagmanager.com": {
+        "freq": 2,
+        "queries": [
+            [
+                "id",
+                "G-N362NVRK8N"
+            ],
+            [
+                "id",
+                "GTM-NK85785C"
+            ]
+        ],
+        "cookies": []
+    },
+    "jsdelivr.net": {
+        "freq": 1,
+        "queries": [],
+        "cookies": []
+    },
+    "wsimg.com": {
+        "freq": 1,
+        "queries": [],
+        "cookies": []
+    },
+    "heapanalytics.com": {
+        "freq": 1,
+        "queries": [],
+        "cookies": []
+    }
+}

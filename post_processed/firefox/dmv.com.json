@@ -1,0 +1,355 @@
+{
+    "ca.gov": {
+        "freq": 45,
+        "queries": [
+            [
+                "ver",
+                "5e580eb46a90c2b997e6"
+            ],
+            [
+                "ver",
+                "7d568203f3965dc85d8a"
+            ],
+            [
+                "ver",
+                "2810c76e705dd1a53b18"
+            ],
+            [
+                "ver",
+                "1716342790"
+            ],
+            [
+                "ver",
+                "146fe7c4ebd525d819ebd348a37b1f41"
+            ],
+            [
+                "ver",
+                "1716342611"
+            ],
+            [
+                "ver",
+                "eb980f462d1edb3d2f7a161ce338cc5f"
+            ],
+            [
+                "ver",
+                "a6741e62380c47e371b4"
+            ],
+            [
+                "ver",
+                "d15827310189f5ee3511"
+            ]
+        ],
+        "cookies": [
+            [
+                "TS013cb4be",
+                "01c895d086e6e87918bc8a6d82958244d37bcb3b0eef80e316742788ba84ca3bd5ce3e4a119c3607f0f1edf189a6d9e3fe6748b5b2"
+            ],
+            [
+                "PD-S-SESSION-ID",
+                "hYFcfR1dDb3hhaR35844PQ==:1_2_1_jTFrzwttB8sKPiwsFbGNBKGZ3VXhsrv6gr4XyOXw6Li3SReP|"
+            ],
+            [
+                "_ga_69TD0KNT0F",
+                "GS1.1.1717339827.1.1.1717339898.0.0.0"
+            ],
+            [
+                "AWSALBCORS",
+                "daub77vE84kT7j+x3sRagFHu5NxeibXL4tLnTyhv6+q0dbuGWiXNAISTAt7P5obcCVJUjEPh5s4S6XY1jVi5TCcIVs1rwYMrtFDoGlSwz5knVHvdsYZQg2o1iajJ"
+            ],
+            [
+                "AWSALB",
+                "Y6FrxCBOrk+uO7aWNBzCtdv2HU1uzujBLJ98R4a/K695CuVDGFPVChCxK10u1peGY2oZz4NiJpE16e1htK9LHAKI41oQEkdETDjA6XmR+xTM92eFSNExusSjEUxL"
+            ],
+            [
+                "BIGIP",
+                "85989548.47873.0000"
+            ],
+            [
+                "TS013cb4be",
+                "01b6e76657ac151ac9e09ffecae2e2b1b850d16716b6e38e93c20472399ef0d36328c7f0763eefdbe73c7e95c7300cb77c5c6961e3"
+            ],
+            [
+                "_ga_006F1FGTXR",
+                "GS1.1.1717339827.1.1.1717339897.60.0.0"
+            ],
+            [
+                "TS013cb4be",
+                "01b6e7665702549c966fc8731c3b8f0d878ca78e8e180aad546c7036c7b8198120a7da518faefbb1bc0f7eb7ebf95a3bc2d7855d1a"
+            ],
+            [
+                "_hjSessionUser_1388900",
+                "eyJpZCI6IjYxOGI2NWQ1LWRkNDQtNTIwMi1hNDdlLTU0NTk1YjU2MTUyNCIsImNyZWF0ZWQiOjE3MTczMzk4Mjk1NDYsImV4aXN0aW5nIjp0cnVlfQ=="
+            ],
+            [
+                "AWSALB",
+                "iX0xz9RnSlmS6C+yhvrLo3YMlIstggpqduard2zGYDOueiVxxV0VUeAR4Mo1snARdcJUvLrPyusSzgPNaV1Nm7sQ18OvJZRtHGMEMcBhqMSDYWahtCsUokDLothU"
+            ],
+            [
+                "TS013cb4be028",
+                "01b567ea4ace709ec116c261b7bd5a65daad7b2683cdee7cf4804e2d1e3ed72da15cb2635ee6bc8b51bd8fd7ae9871bed1d962c42e"
+            ],
+            [
+                "AWSALBCORS",
+                "k72Ai9UxcDV4GOZApHIs7gpL+8bjHQxim+41r7qWLg7orgsMAwb3i2Ib/kA+VafKxvibfHfmvinjzR3A4uwkC1isVA5zP4dhKl8fNBp5QX4YHVRcVhTBtJ4YSCDE"
+            ],
+            [
+                "_ga",
+                "GA1.2.195881419.1717339827"
+            ],
+            [
+                "mdLogger",
+                "false"
+            ],
+            [
+                "PD-ID",
+                "CKjtoqFpYNi/iyhZsIwSv3zkU+m4PKHq09ufosMV811tHc3czdbkM8jd26QgJCK2HXV/wLlOCMpr9ai783O1a2PwBORZbYcLEi7Hh0HX+gqJ9frXBpPzqvlh4bQgG7DYfhlZrmPAaEUNM3ZF39bUZLPOkLIgdTXvVZJVi1BuubZt0HSONdVMVI97eqaze3dJjgI47/Z8JVt5JF94depg6t1tEFUlAgipJWxisFCIdtLHY7Yv0Rgq5lqtvF+R6HHQHcmbmN0uD/wO2Txu1dAMxWQVVJ9QoKcET7qdNXeQBlJ8Iezy08FbbTEr1RFRe2z3/L2wceOHAf5ztdTYynKJiwcJgW01v0X/vRyOuaT+6UhjYUDsN2ZFZlwGMdE3xv3ewrL21qaH3P24CXJ4F1KGXZJMDzrb531q6zs3/6jm0sGPRpRFwL+tT2g19j2QRoFswKLfHi0KIXhP7bsl5jZiA1HgiV/UFROnGn8jY1FYohMuG9pGT9XZmfThMaZijigCxaDGYICaY+sA6dEKDHKR66u7U/J0iCgBGjE840fLsPX/QVbE56wPBQTiMbLTCXzXAu0YHP8aKphdVY23TVXd67X5fnJlSMJ58IzYIg5Ec8KoqGiwh3OB6qgdW+fm7+Wlm3CVbieyhQ0aKmjtywFSztd4wx1kTyl81o7qaVb2OvOkCxZPfMatk8GrCErn06VsBfj2i2SawTW+xnZ3KcoTcQZhv7NAHPsbSi3Q0gWd44467LQTkg4mabAyB6DQwi1QZJ7EYRPkWrgrXbM+jPjksEoIPbmwWuyITbRoPLoVHkVrE8Ar9XiuRtG0pYS87MjWuFRZIiZB6hgEavmVy5j4LDiP1x45sP22QDJRbBNydxgsERz6qRCNSWVp+ZLj/3o9lquPBGB1hYPSA4RYClV9MEiPHLTZ0CzuQRs4tPUg/8K8IfPm24ZYDzU8XRxZfOHHhRTtAxS30+Dhrt4MzStMuOowV3RpIn2Yq9YHDYbDzicrEDMngKdZ8VUEwhzSlFuqJd2+b6W2ZI3vcHQ1XnIHoAL7z4fn3A/06cSd+9Qmm9o2pKQlJadGkQcxs7XQY4tHKSKj84BGbdoaBNadiiLZQuf3wKHJQnVhNipTevqgwowPmPpdT/wcXrgU1ftr9V/hivqhooXmg+tG6Zuy1EG4sreDakBCS2nBYt13gKKF6axsb1Q1s360monFBuBjEVg4UfgAv+RUynmfwLZUOW80JlElXJGmJiI+0FWNP74eRqdy3SS++HXHKTW8yGpD/PpDDI+ylSD15DxeRRmlXtlklmGEzh7qkxe5XEvWWSOSLVAoSkfqBovuWhDp+Y8tuJDLRKcV2S1A4oWORs+CycjkNMeaU7DpqzVUh6zV8Z7OCghUmDAbqpMeI1f4nCxuUO+X3jh3yhpA4mtrcVKdIAI8HvVM28mTEewhgMK9UBEnhMoWjjtKA0brlRz5daLfiNNzzlFU8X2LcXSUZkT7ja8CPv6IgBl+eLdRFbKIe4nw5NQfgX7MQWMx8u4OJrghIcCYBvSIEoy10iBwQfQSmIfVTG4HPR3KRxxI6lYnQbLr/jF7Twynl9XCsgEXxXDvZkj/E59+gGiIFYOkT0xWyVWq3x+2lV+6sD/Z7/Yddcnmm2prPEHNmz8Opk5T0CrIFxHtDoOmvwB9uWOdfBbS41huR21gxLnMXroLYyaPBfGK4FbTsZXPqBYBtnFEhPhoQDBWugfT43szUahW15Xet0GMNsaRcuD4rw8N4dUH2j5eUF6lwWB1ewXJ241cOpggTk/+rl5uiBprH9aWS8GSF6hmJF0018zW4AKbjtS6espFxNH3VwjhfU4HN2GXUGFli+lwLnXjhciIef2JmrncWCw1ndJE6ylA3k9++uqB3P/jXn4aTQSr31LFsqEP5BUv4u4RpBpHDz7ZFu5tbaY6cm+6ZWDQOcK8NwDTHMGcY0MTkx4="
+            ],
+            [
+                "_gid",
+                "GA1.2.550909371.1717339829"
+            ],
+            [
+                "AWSALB",
+                "daub77vE84kT7j+x3sRagFHu5NxeibXL4tLnTyhv6+q0dbuGWiXNAISTAt7P5obcCVJUjEPh5s4S6XY1jVi5TCcIVs1rwYMrtFDoGlSwz5knVHvdsYZQg2o1iajJ"
+            ],
+            [
+                "_gat_UA-3419582-34",
+                "1"
+            ],
+            [
+                "TS013cb4be028",
+                "01a3d41c9d29f1711c70b368518fb785596405d37736d26791f0b2428f8c4d1200c47722c2adb56182c472bed0c6e2c0c6c27f3554"
+            ],
+            [
+                "AWSALBCORS",
+                "mtGFt5JIy3lLvpzwxfUXmSMx4BJHP4UfAJvr1btogbid0mnm2ybfkgMAw42lsWyqzhO6iEg7Xjy/7QBN0gtCPw80be+08JHqn1Jx7asVOvnDD3SlXmvS4rsdlfc0"
+            ],
+            [
+                "IV_JCT",
+                "/mga"
+            ],
+            [
+                "_ga_69TD0KNT0F",
+                "GS1.1.1717339827.1.1.1717339897.0.0.0"
+            ],
+            [
+                "kampyleSessionPageCounter",
+                "6"
+            ],
+            [
+                "TS013cb4be",
+                "01ce3609d08d35a8df1d901d3159663f32c0d5b80e5d04cc6dd2eba7e71290503c0474ee1ab2e6332cdb19ed1cd83476e6ffe23380"
+            ],
+            [
+                "AWSALB",
+                "k72Ai9UxcDV4GOZApHIs7gpL+8bjHQxim+41r7qWLg7orgsMAwb3i2Ib/kA+VafKxvibfHfmvinjzR3A4uwkC1isVA5zP4dhKl8fNBp5QX4YHVRcVhTBtJ4YSCDE"
+            ],
+            [
+                "TS013cb4be",
+                "0121365fb2e14a0ac733e72c3b8fd76e044a417fae0500db39325cb231349e0b0bd2cf9328fde721451a1736fee1b7432bcfdf43a4"
+            ],
+            [
+                "_ga_69TD0KNT0F",
+                "GS1.1.1717339827.1.1.1717339870.0.0.0"
+            ],
+            [
+                "kampyle_userid",
+                "1b88-1f95-5c20-27dc-3ac5-c18b-ab98-7298"
+            ],
+            [
+                "iv_user",
+                "{\"user\":\"pnikkhah@ucdavis.edu\",\"first_name\":\"POUNEH\",\"last_name\":\"NIKKHAHBAHRAMI\",\"uid\":false}"
+            ],
+            [
+                "_ga_006F1FGTXR",
+                "GS1.1.1717339827.1.1.1717339898.59.0.0"
+            ],
+            [
+                "PD_STATEFUL_22b94bb8-f891-11ee-8522-028c6cad0855",
+                "/mga"
+            ],
+            [
+                "AWSALBCORS",
+                "uH2NmTzSSmPOGMhXqTh6DovKYYQvAfc58k2oxX6iEYwLidmauP34v82clWHm70f6VcycVdEdCpBlQWBMijiQmH1a0ieRzMaBYIlk6/IN6BGe/IKY5SbhVnWMoZaJ"
+            ],
+            [
+                "_hjSession_1388900",
+                "eyJpZCI6IjYxMmYwZWM2LTliMTUtNGVjMS05OGYzLTlkNDRlNjU5OWFiOCIsImMiOjE3MTczMzk4Mjk1NDcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0="
+            ],
+            [
+                "AWSALB",
+                "mtGFt5JIy3lLvpzwxfUXmSMx4BJHP4UfAJvr1btogbid0mnm2ybfkgMAw42lsWyqzhO6iEg7Xjy/7QBN0gtCPw80be+08JHqn1Jx7asVOvnDD3SlXmvS4rsdlfc0"
+            ],
+            [
+                "PD_STATEFUL_0531fc7e-9a22-11ea-bf4d-fa163e384dc6",
+                "/portal"
+            ],
+            [
+                "AWSALBCORS",
+                "Y6FrxCBOrk+uO7aWNBzCtdv2HU1uzujBLJ98R4a/K695CuVDGFPVChCxK10u1peGY2oZz4NiJpE16e1htK9LHAKI41oQEkdETDjA6XmR+xTM92eFSNExusSjEUxL"
+            ],
+            [
+                "kampyleSessionPageCounter",
+                "5"
+            ],
+            [
+                "AWSALB",
+                "uH2NmTzSSmPOGMhXqTh6DovKYYQvAfc58k2oxX6iEYwLidmauP34v82clWHm70f6VcycVdEdCpBlQWBMijiQmH1a0ieRzMaBYIlk6/IN6BGe/IKY5SbhVnWMoZaJ"
+            ],
+            [
+                "TS013cb4be",
+                "01c895d08625fab4c87e50f23252e3b33c3c7806d31c39fb0e21ace506ca8837a26702e31623080fbbd5b98a50c10f68617c76970f"
+            ],
+            [
+                "TS013cb4be028",
+                "014434fc30688ab6194ae9584f81cae07c2138df0af46e07886899837b5ae66814a30ed4853051d2f60934e3d36ec421b04c5928e7"
+            ],
+            [
+                "_ga",
+                "GA1.1.195881419.1717339827"
+            ],
+            [
+                "kampyleUserSessionsCount",
+                "1"
+            ],
+            [
+                "TS01fb8c82",
+                "0121365fb23cf28266aa460b0d9b7180732c513074e5a08403e784ca86c4601b83b3d305d21242d9d6878aa3b5d96fbdb85563cbf9"
+            ],
+            [
+                "AWSALBCORS",
+                "iX0xz9RnSlmS6C+yhvrLo3YMlIstggpqduard2zGYDOueiVxxV0VUeAR4Mo1snARdcJUvLrPyusSzgPNaV1Nm7sQ18OvJZRtHGMEMcBhqMSDYWahtCsUokDLothU"
+            ],
+            [
+                "kampyleUserSession",
+                "1717339832168"
+            ]
+        ]
+    },
+    "googleapis.com": {
+        "freq": 4,
+        "queries": [
+            [
+                "family",
+                "Playfair Display:400,700"
+            ]
+        ],
+        "cookies": []
+    },
+    "google.com": {
+        "freq": 1,
+        "queries": [
+            [
+                "cb",
+                "googleTranslateElementInit"
+            ]
+        ],
+        "cookies": [
+            [
+                "NID",
+                "514=FXKH2tQ1bWCEjLVtOfGCXFHyRFOleMb6AzKEdGrEOH_QKGb0YcBwOBw3PMQ2zuKvZTl_KApwGhnteByTcwmm28-OZJBqraDevjK3kP2br46tdd_5sPiCtaIQL8zTAEcU6R4tebPKb-FM1LReLSipMcVcO-g0NOFZFrdygGBST6U"
+            ]
+        ]
+    },
+    "googletagmanager.com": {
+        "freq": 3,
+        "queries": [
+            [
+                "l",
+                "dataLayer"
+            ],
+            [
+                "id",
+                "GTM-KHCVGH4"
+            ],
+            [
+                "id",
+                "G-69TD0KNT0F"
+            ],
+            [
+                "id",
+                "G-006F1FGTXR"
+            ]
+        ],
+        "cookies": []
+    },
+    "google-analytics.com": {
+        "freq": 5,
+        "queries": [
+            [
+                "sr",
+                "2048x1152"
+            ],
+            [
+                "gcd",
+                "13l3l3l3l1"
+            ],
+            [
+                "dt",
+                "MyDMV - California DMV"
+            ],
+            [
+                "_p",
+                "1717339869847"
+            ],
+            [
+                "dl",
+                "https://www.dmv.ca.gov/portal/mydmv/"
+            ],
+            [
+                "dr",
+                "https://www.dmv.ca.gov/mga/sps/authsvc?StateId=sXQ0KZqfFeuyy3wpIvwJTgssKv6xZ7ED3yvXUpbDUv01hnetNjQ3Hpx7zrLolRGBpDSn3cteQNKCW1lRWqhXqLzEdNKnBSli4kijgr8aZdgUvPLpRV69seMmhlOPvn2M"
+            ],
+            [
+                "gtm",
+                "45je45t0v886148400za200zb812326853"
+            ],
+            [
+                "sid",
+                "1717339827"
+            ],
+            [
+                "tid",
+                "G-69TD0KNT0F"
+            ],
+            [
+                "en",
+                "user_engagement"
+            ],
+            [
+                "cid",
+                "195881419.1717339827"
+            ],
+            [
+                "id",
+                "GTM-5BSDFST"
+            ]
+        ],
+        "cookies": []
+    },
+    "medallia.com": {
+        "freq": 2,
+        "queries": [],
+        "cookies": []
+    },
+    "gstatic.com": {
+        "freq": 6,
+        "queries": [],
+        "cookies": []
+    },
+    "hotjar.com": {
+        "freq": 2,
+        "queries": [],
+        "cookies": []
+    },
+    "kampyle.com": {
+        "freq": 1,
+        "queries": [
+            [
+                "data",
+                "eyJldmVudHMiOiBbCiAgICB7InNlc3Npb25fc2NyZWVuX3NpemUiOiAiMjA0OHgxMTUyIiwic2Vzc2lvbl9kdWEiOiAiTW96aWxsYS81LjAgKFgxMTsgVWJ1bnR1OyBMaW51eCB4ODZfNjQ7IHJ2OjEyNi4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEyNi4wIiwic2Vzc2lvbl9wbGF0Zm9ybSI6ICJMaW51eCB4ODZfNjQiLCJyZWZlcnJpbmdfdXJsIjogImh0dHBzOi8vd3d3LmRtdi5jYS5nb3YvcG9ydGFsL215ZG12LyIsInJlZmVycmluZ19kb21haW4iOiAid3d3LmRtdi5jYS5nb3YiLCJwYWdlX3RpdGxlIjogIk9ubGluZSBTZXJ2aWNlcyBQb3J0YWwgLSBDYWxpZm9ybmlhIERNViIsInBhZ2VfdXJsIjogImh0dHBzOi8vd3d3LmRtdi5jYS5nb3YvcG9ydGFsL2Rtdi1vbmxpbmUvIiwidHJhY2tlcl90eXBlIjogImphdmFzY3JpcHQiLCJ0cmFja2VyX3ZlcnNpb24iOiAiMi4yLjIzIiwiZXZlbnRfbmFtZSI6ICJuZWJ1bGFfcGFnZV92aWV3IiwiZXZlbnRfdGltZXN0YW1wX2Vwb2NoIjogIjE3MTczMzk4OTkxNDUiLCJldmVudF90aW1lem9uZV9vZmZzZXQiOiAtNywidXNlcl9pZCI6ICIxOGZkOTZlM2Y2MDdmYy0wZDcxNGYxNmFiMTlkNDgtYjc5MjUzMC0yNDAwMDAtMThmZDk2ZTNmNjFlNGIiLCJlbnZpcm9tZW50IjogImRpZ2l0YWwtY2xvdWQtd2VzdCIsImFjY291bnRJZCI6IDk2Mzg1LCJ1cmwiOiAiaHR0cHM6Ly93d3cuZG12LmNhLmdvdi9wb3J0YWwvZG12LW9ubGluZS8iLCJ3ZWJzaXRlSWQiOiA5NjM4NywiZm9ybUlkIjogbnVsbCwiZm9ybVRyaWdnZXJUeXBlIjogbnVsbCwia2FtcHlsZV9kYXRhIjogeyJtZF9pc1N1cnZleVN1Ym1pdHRlZEluU2Vzc2lvbiI6ICIiLCJMQVNUX0lOVklUQVRJT05fVklFVyI6ICIiLCJERUNMSU5FRF9EQVRFIjogIiIsImthbXB5bGVJbnZpdGVQcmVzZW50ZWQiOiAiIiwia2FtcHlsZV91c2VyaWQiOiAiMWI4OC0xZjk1LTVjMjAtMjdkYy0zYWM1LWMxOGItYWI5OC03Mjk4Iiwia2FtcHlsZVVzZXJTZXNzaW9uIjogIjE3MTczMzk4MzIxNjgiLCJrYW1weWxlVXNlclBlcmNlbnRpbGUiOiAiIiwiU1VCTUlUVEVEX0RBVEUiOiAiIn0sImNvb2tpZV9zaXplIjogMTIyOSwia2FtcHlsZV92ZXJzaW9uIjogIjIuNTUuMCIsIm9uc2l0ZV92ZXJzaW9uIjogIjIuNTUuMCIsImhpc3RvcnlfbGVuZ3RoIjogOSwiZXZlbnRfbG9jYWxfdGltZXN0YW1wIjogMTcxNzMzOTg5OTE0NSwicG9zaXRpb24iOiBudWxsLCJpc1VzZXJJZGVudGlmaWVkIjogZmFsc2V9Cl19"
+            ]
+        ],
+        "cookies": []
+    }
+}
